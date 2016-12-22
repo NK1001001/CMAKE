@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 2.6)
-project (AssembTest)
+project (<Put here you porject name>)
     # The version number.
     set (AssembTest_VERSION_MAJOR 1)
     set (AssembTest_VERSION_MINOR 0)
@@ -27,4 +27,4 @@ project (AssembTest)
     include_directories("${PROJECT_BINARY_DIR}")
 
     # add the executable
-    add_executable(AssembTest test_assembly.cpp)
+    add_executable(<write here the exec file name you want> <your source file name>.cpp)
