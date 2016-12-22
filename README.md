@@ -1,5 +1,5 @@
-1. create CMakeLists.txt file
-2. copy instructions.txt content to the file.
+1. In your project directory create CMakeLists.txt file (the name is very important! make sure you copy it correctly)
+2. Copy the contenct of file CMakeLists.txt in this repository and fillin the missing parts ,marked <> in the file.
 
 3. Now you should create a "build" dir:
 4. run:
