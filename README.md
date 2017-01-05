@@ -15,6 +15,7 @@ vim CMakeLists.txt
 
 ```
 $ mkdir build
+$ cd build #or cd !$
 $ cmake ../
 $ make
 ```
